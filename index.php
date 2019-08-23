@@ -2,7 +2,7 @@
 <html lang="en" class="js">
 
 <head>
-    <title>Naa Beauty Salon, Koforidua </title>
+    <title>Naa & Paps Home Salon Services, Koforidua </title>
     <meta name="description" content="Best home salon service provider in Ghana. Most effective and high quality services. Call now" />
 
     <link rel="shortcut icon" href="salimage/big_pic.png">
@@ -53,7 +53,7 @@
                 </div>
         </div>
         <center>
-            <h1>Naa Beauty Salon</h1>
+            <h1>Naa & Paps Home Salon Services</h1>
           </center>
     </div>
 
@@ -76,7 +76,7 @@
 						 <div class="single-feature">
 
                                <h6>APPOINTMENTS</h6>
-                            <p>The Naa Beauty Salon mobile app allows customers to easily book,manage, and track appointments with just a few taps and touches. Apart from this  customers receive Push notifications for booking and assigned stylists via SMS(if required) when appointments are scheduled</p>
+                            <p>Naa & Paps Home Salon Services mobile app allows customers to easily book,manage, and track appointments with just a few taps and touches. Apart from this,  customers receive Push notifications for booking and assigned stylists via SMS(if required) when appointments are scheduled</p>
                         </div>
                         </div>
 
@@ -108,8 +108,8 @@
                     <div class="row text-center">
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
-                            <h3>Why Naa Beauty Salon?</h3>
-                            <p>Naa Beauty Salon at Home is convenient service provider with excellent ratings and downloads.Naa Beauty Salon has expert Beauty Professionals who are trained,groomed and handpicked from the top salons and with background checks.</p>
+                            <h3>Why Naa & Paps Home Salon Services?</h3>
+                            <p>Naa & Paps Home Salon Services  is convenient service provider with excellent ratings and downloads.Naa Beauty Salon has expert Beauty Professionals who are trained,groomed and handpicked from the top salons and with background checks.</p>
                         </div>
                         <div class="col-md-2"></div>
                     </div>
@@ -156,7 +156,7 @@
                         <div class="col-md-3"></div>
                         <div class="col-md-6">
                             <h3>How it Works</h3>
-                            <p>Fast service at your beck and call.</p>
+                            <p class="large">Fast service at your beck and call.</p>
                         </div>
                         <div class="col-md-3"></div>
                     </div>
@@ -166,13 +166,16 @@
                 <div class="container">
                     <div class="row">
                         <div class="product-block col-md-3">
+                            <!-- <span>Beautiful login</span> -->
                             <a target="_blank" href="#">
+
                                 <figure>
                                     <img src="salimage/login.png" alt="Login screen">
                                 </figure>
                             </a>
                         </div>
                         <div class="product-block col-md-3">
+                            <!-- <span>An array of services to choose from</span> -->
                             <a target="_blank" href="#">
                                 <figure>
                                     <img src="salimage/services.png" alt="Services">
@@ -180,6 +183,7 @@
                            </a>
                         </div>
                         <div class="product-block col-md-3">
+                            <!-- <div class="pb-5">And experienced beauticians</div> -->
                            <a target="_blank" href="#">
                                 <figure>
                                     <img src="salimage/providers.png" alt="Select Provider">
@@ -187,6 +191,7 @@
                             </a>
                         </div>
 						<div class="product-block col-md-3">
+                            <!-- <span>You are good to go!</span> -->
                             <a target="_blank" href="#">
                                 <figure>
                                     <img src="salimage/confirm.png" alt="Confrim">
@@ -212,7 +217,7 @@
                     <div class="row text-center">
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
-                            <h3>Best Services</h3>
+                            <h3>Our Best Services</h3>
                         </div>
                         <div class="col-md-2"></div>
                     </div>
@@ -375,7 +380,7 @@ Threading - Eyebrows</p>
                 <br>
                 <p>We have a track record of delivering on time on our promises</p>
                 <br>
-                <a target="_blank" href="https://play.google.com/store/apps/dev?id=8154550354216445583&amp;hl=en" class="button orange">Check out some of our services</a>
+                <a href="#" class="button orange">Check out some of our services</a>
             </div>
         </div>
 
@@ -516,24 +521,11 @@ Threading - Eyebrows</p>
             });
 			</script>
 
-        <script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=72239401"></script>
-        <script type="text/javascript">
-            _atrk_opts = {
-                atrk_acct: "cLS4n1a4KM1070",
-                domain: "webprogr.com",
-                dynamic: true
-            };
-            (function() {
-                var as = document.createElement('script');
-                as.type = 'text/javascript';
-                as.async = true;
-                as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(as, s);
-            })();
-        </script>
+      
 
-        <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=cLS4n1a4KM1070" style="display:none" height="1" width="1" alt="" /></noscript>
+<script type="text/javascript">function add_chatinline(){var hccid=29456721;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline(); </script>
+
 <script>
     $('#zoom_01').elevateZoom({
     zoomType: "inner",
@@ -542,22 +534,6 @@ zoomWindowFadeIn: 500,
 zoomWindowFadeOut: 750
    });
 </script>
-        <script>
-            (function(i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function() {
-
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-                a = s.createElement(o),
-
-                    m = s.getElementsByTagName(o)[0];
-                a.async = 1;
-                a.src = g;
-            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-            ga('create', 'UA-80319233-1', 'auto');
-            ga('send', 'pageview');
-        </script>
 
         <script type="text/javascript">
             $(window).scroll(function() {
