@@ -5,9 +5,9 @@
     <title>Naa Beauty Salon, Koforidua </title>
     <meta name="description" content="Best home salon service provider in Ghana. Most effective and high quality services. Call now" />
 
-    <link rel="shortcut icon" href="images/favicon.png">
-    <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-    <link href="images/favicon.ico" rel="icon" type="image/x-icon">
+    <link rel="shortcut icon" href="salimage/big_pic.png">
+    <link href="salimage/big_pic.png" rel="shortcut icon" type="image/x-icon">
+    <link href="salimage/big_pic.png" rel="icon" type="image/x-icon">
 
     <link rel="stylesheet" href="css/bootstrap.css">
     <!-- FontAwesome -->
