@@ -1,0 +1,71 @@
+/*
+* Skype style 032017 rn
+*/
+
+			#SkypeButton_Call_webprogr{
+
+				position: fixed;
+
+				bottom: -34px;
+
+				right: 280px;
+
+				z-index: 1000;
+
+				background: #fff;
+
+				border-radius: 4px;
+
+				border: 1px solid #aaa;
+
+				box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.03), inset 0px 0px 8px 0px rgba(0,0,0,0.08);
+
+			}
+
+			#SkypeButton_Call_webprogr_paraElement { 
+
+				margin:0px !important;
+
+				display:inline;  
+
+			}
+
+			#SkypeButton_Call_webprogr_paraElement a img {
+
+			    margin:10px 14px 32px 8px  !important;
+
+			    vertical-align:0 !important;    
+
+			}
+
+			.clients-area ul li {
+
+				padding: 20px 16px;
+
+			}
+
+			.clients-area ul > li > a > img{
+
+				width: 90px;
+
+			}
+
+			.menu li a {
+
+		    color: #fff;
+
+		    font-size: 14px !important;
+
+		    text-transform: uppercase;
+
+		    font-family: 'Roboto', sans-serif;
+
+		    font-weight: 400 !important;
+
+		    padding:0px;
+
+		}
+
+            .error {color: #FF0000;font-size:12px; display:block}
+
+	
